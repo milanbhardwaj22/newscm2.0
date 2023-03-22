@@ -1,3 +1,4 @@
+
 import random
 x=int(input("enter the number of subjects:")) 
 #taking subjects
@@ -27,3 +28,4 @@ for i in days:
        for j in range(len(table[i])): 
           print(table[i][j],end="    ")
     print()
+#
